@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net" modified="2023-12-21T09:41:37.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="T1CyhA82oNGgd5LRTtFp" version="22.1.11" type="device">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="994" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FR8utgDmx2N-3jPKie-p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-2" target="FR8utgDmx2N-3jPKie-p-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-2" target="FR8utgDmx2N-3jPKie-p-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-2" value="Руководство СПБГЭТУ &quot;ЛЭТИ&quot;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-3" target="FR8utgDmx2N-3jPKie-p-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="430" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-3" target="FR8utgDmx2N-3jPKie-p-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="650" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="sourcePoint" />
+            <mxPoint x="200" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="870" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="FR8utgDmx2N-3jPKie-p-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="320" y="280" />
+              <mxPoint x="320" y="400" />
+              <mxPoint x="200" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-3" target="FR8utgDmx2N-3jPKie-p-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="430" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-3" target="FR8utgDmx2N-3jPKie-p-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="320" y="280" />
+              <mxPoint x="320" y="400" />
+              <mxPoint x="430" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-3" target="FR8utgDmx2N-3jPKie-p-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="760" y="280" />
+              <mxPoint x="760" y="400" />
+              <mxPoint x="650" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR8utgDmx2N-3jPKie-p-3" target="FR8utgDmx2N-3jPKie-p-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+              <mxPoint x="760" y="280" />
+              <mxPoint x="760" y="400" />
+              <mxPoint x="870" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-3" value="Ректор университета&lt;br&gt;Шелудько Виктор Николаевич" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-5" value="Президент университета&lt;br&gt;Кутузов Владимир Михайлович" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-8" value="Проректор по научной и инновационной деятельности&lt;br&gt;Семёнов Александр Анатольевич" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-10" value="Проректор по научной работе&lt;br&gt;Галунин Сергей Александрович" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-11" value="Проректор по стратегическому развитию&lt;br&gt;Тупик Виктор Анатольевич" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-15" value="Проректор по международной деятельности&lt;br&gt;Минина Анастасия Андреевна" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="425" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-16" value="Проректор по экономическим и правовым вопросам&lt;br&gt;Кустов Тарас Владимирович" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-21" value="Проректор по безопасности и общим вопросам&lt;br&gt;Крылов Александр аркадьевич" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="425" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-22" value="Проректор по административно-хозяйственной работе&lt;br&gt;Артёмов Владимир Александрович" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="425" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR8utgDmx2N-3jPKie-p-23" value="Проректор по молодёжной политике&lt;br&gt;Иванова Ольга Витальевна" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="425" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
